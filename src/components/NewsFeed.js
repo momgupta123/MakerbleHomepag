@@ -36,7 +36,7 @@ function HeaderAndFooterExample() {
       <Button variant="outline-danger">★</Button> {' '}
     
       </Card.Body>
-      <Card.Footer className="text-muted">Posted 3 days ago</Card.Footer>
+      <Card.Footer className="text-muted">Posted 1 days ago</Card.Footer>
       <InputGroup className="mb-3">
       <img
               src="botFace.jpeg"

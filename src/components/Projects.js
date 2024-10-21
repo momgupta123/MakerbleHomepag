@@ -32,7 +32,7 @@ function LinkedExampleProjects() {
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />
-       <span className='text-primary'>A Training Project</span>
+       <span className='text-primary'>A Training Projects</span>
       </ListGroup.Item>
       
     </ListGroup>

@@ -16,7 +16,7 @@ function OffCanvasExample1({ name, placement, ...props }) {
       </Button>
       <Offcanvas show={show} onHide={handleClose} placement={placement} {...props}>
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title><span className=' text-primary'>QuickLinks Hub</span></Offcanvas.Title>
+          <Offcanvas.Title><span className=' text-primary'>QuickLinks Hubs</span></Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
           <AllCollapseExample1 />

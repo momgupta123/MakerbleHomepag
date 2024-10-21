@@ -23,9 +23,7 @@ function FillExampleNF() {
       <Tab eventKey="newsfeed" title="NEWSFEED">
       <OffCanvasExample2 name=" <- Your Progess" placement="start" />
       </Tab>
-      {/* <Tab eventKey="longer-tab" title="NEWSFEED">
-        Tab content for Loooonger Tab
-      </Tab> */}
+     
       
     </Tabs>
   );

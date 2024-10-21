@@ -17,7 +17,7 @@ function LinkedExampleBoards() {
       <ListGroup.Item action href="#link1">
       <img
               src="makerble_logo.jpeg"
-              width="30"
+              width="31"
               height="30"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"

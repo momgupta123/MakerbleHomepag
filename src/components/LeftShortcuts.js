@@ -47,7 +47,7 @@ function AllCollapseExample1() {
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="6">
-        <Accordion.Header><span className='text-primary'>Following</span></Accordion.Header>
+        <Accordion.Header><span className='text-primary'>Followings</span></Accordion.Header>
         <Accordion.Body>
         <ShapeExample />
         </Accordion.Body>

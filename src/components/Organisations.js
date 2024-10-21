@@ -10,7 +10,7 @@ function LinkedExampleOrganisations() {
         <span className='text-primary'>An Organisation Demo</span> <br/> Admin
       </ListGroup.Item>
       <ListGroup.Item action href="#link2" >
-        <span className='text-primary'>A Showcase International Development Education Charity</span> <br/> Member
+        <span className='text-primary'>A Showcase International Development Educations Charity</span> <br/> Member
       </ListGroup.Item>
       <ListGroup.Item action href="#link3">
       <span className='text-primary'>Oak Tree Secondary School</span> <br/> Admin

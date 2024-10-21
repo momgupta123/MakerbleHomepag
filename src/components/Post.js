@@ -14,8 +14,9 @@ function ButtonsExample() {
           aria-describedby="basic-addon2"
           variant="outline-dark"
         />
-        <Button variant="danger" id="button-addon2">
-          Post
+        {/* here are using to show posts */}
+        <Button variant="danger" id="button-addon2">  
+          Post  
         </Button>
       </InputGroup>
 

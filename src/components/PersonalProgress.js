@@ -8,7 +8,7 @@ function WithLabelExample() {
   <>
   <div className="d-grid gap-2">
       <Button variant="primary" size="md">
-        Go to Board
+        Go on Board
       </Button>
       <br/>
       

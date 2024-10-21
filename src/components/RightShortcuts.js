@@ -18,7 +18,7 @@ function AllCollapseExample2() {
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
-        <Accordion.Header><span className='text-primary'>Personal Progress</span></Accordion.Header>
+        <Accordion.Header><span className='text-primary'>Personals Progress</span></Accordion.Header>
         <Accordion.Body>
           <WithLabelExample />
         </Accordion.Body>

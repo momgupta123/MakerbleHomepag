@@ -9,7 +9,7 @@ function AlignmentExample() {
         <img
               src="FOOTERLOGO.png"
               width="130"
-              height="30"
+              height="31"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />

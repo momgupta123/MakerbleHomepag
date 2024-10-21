@@ -15,7 +15,7 @@ function Makerble() {
         Terms and Conditions
       </ListGroup.Item>
       <ListGroup.Item action href="#link2">
-        About us
+        About Us
       </ListGroup.Item>
     // </ListGroup>
     </>

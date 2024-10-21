@@ -16,7 +16,7 @@ function LinkedExampleTasks() {
         <option >Story Filters</option>
       </Form.Select>
       <Button variant="primary" size="md">
-        + New Task
+        + New Tasks
       </Button> 
       
     </div>

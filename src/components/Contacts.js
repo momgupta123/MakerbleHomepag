@@ -5,7 +5,7 @@ import { Button } from 'react-bootstrap';
 
 function LinkedExampleContacts() {
   const alertClicked = () => {
-    alert('You clicked the third ListGroupItem');
+    alert('You clicked the third to ListGroupItem');
   };
 
   return (

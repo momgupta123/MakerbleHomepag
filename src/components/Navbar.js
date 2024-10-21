@@ -47,7 +47,7 @@ function NavScrollExample() {
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action5" className='text-primary'>
-                Something else here
+                Somethings else here
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#" className='text-dark'>
