@@ -26,7 +26,7 @@ function LinkedExampleAlbums() {
       <ListGroup.Item action href="#link2" >
       <img
               src="makerble_logo.jpeg"
-              width="31"
+              width="30"
               height="30"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
